@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Ta_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Taestivumcv_ChineseSpring_725_v2.1.protein.fa",
+  "number-of-letters": 58958438,
+  "number-of-sequences": 132623,
+  "last-updated": "2025-10-02T21:29:00",
+  "number-of-volumes": 1,
+  "bytes-total": 107366137,
+  "bytes-to-cache": 60152170,
+  "files": [
+    "Ta_pep.pdb",
+    "Ta_pep.phr",
+    "Ta_pep.pin",
+    "Ta_pep.pog",
+    "Ta_pep.pos",
+    "Ta_pep.pot",
+    "Ta_pep.psq",
+    "Ta_pep.ptf",
+    "Ta_pep.pto"
+  ]
+}
