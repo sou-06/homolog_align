@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "At_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Arabidopsis/Araport11_genes.201606.pep.fasta",
+  "number-of-letters": 20856509,
+  "number-of-sequences": 48360,
+  "last-updated": "2025-09-29T23:25:00",
+  "number-of-volumes": 1,
+  "bytes-total": 31414352,
+  "bytes-to-cache": 21291878,
+  "files": [
+    "At_pep.pdb",
+    "At_pep.phr",
+    "At_pep.pin",
+    "At_pep.pog",
+    "At_pep.pos",
+    "At_pep.pot",
+    "At_pep.psq",
+    "At_pep.ptf",
+    "At_pep.pto"
+  ]
+}

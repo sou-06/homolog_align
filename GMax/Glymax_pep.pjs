@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Glymax_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "GMax/Gmax_880_Wm82.a6.v1.protein.fa",
+  "number-of-letters": 40111405,
+  "number-of-sequences": 80374,
+  "last-updated": "2025-09-29T23:25:00",
+  "number-of-volumes": 1,
+  "bytes-total": 65575770,
+  "bytes-to-cache": 40834892,
+  "files": [
+    "Glymax_pep.pdb",
+    "Glymax_pep.phr",
+    "Glymax_pep.pin",
+    "Glymax_pep.pog",
+    "Glymax_pep.pos",
+    "Glymax_pep.pot",
+    "Glymax_pep.psq",
+    "Glymax_pep.ptf",
+    "Glymax_pep.pto"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Osativa_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Oryza/Osativa_204_v7.0.protein.fasta",
+  "number-of-letters": 17638745,
+  "number-of-sequences": 49061,
+  "last-updated": "2025-09-29T23:25:00",
+  "number-of-volumes": 1,
+  "bytes-total": 31378592,
+  "bytes-to-cache": 18080423,
+  "files": [
+    "Osativa_pep.pdb",
+    "Osativa_pep.phr",
+    "Osativa_pep.pin",
+    "Osativa_pep.pog",
+    "Osativa_pep.pos",
+    "Osativa_pep.pot",
+    "Osativa_pep.psq",
+    "Osativa_pep.ptf",
+    "Osativa_pep.pto"
+  ]
+}

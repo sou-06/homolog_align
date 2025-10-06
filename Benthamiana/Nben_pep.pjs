@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Nben_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Benthamiana/Nbe_v1.1_pep.fa",
+  "number-of-letters": 25152731,
+  "number-of-sequences": 84570,
+  "last-updated": "2025-10-01T10:28:00",
+  "number-of-volumes": 1,
+  "bytes-total": 38294488,
+  "bytes-to-cache": 25913974,
+  "files": [
+    "Nben_pep.pdb",
+    "Nben_pep.phr",
+    "Nben_pep.pin",
+    "Nben_pep.pog",
+    "Nben_pep.pos",
+    "Nben_pep.pot",
+    "Nben_pep.psq",
+    "Nben_pep.ptf",
+    "Nben_pep.pto"
+  ]
+}
