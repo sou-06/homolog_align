@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Populus",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Populus/Populus.fasta",
+  "number-of-letters": 380342,
+  "number-of-sequences": 1497,
+  "last-updated": "2025-11-08T13:01:00",
+  "number-of-volumes": 1,
+  "bytes-total": 774475,
+  "bytes-to-cache": 393920,
+  "files": [
+    "Populus.pdb",
+    "Populus.phr",
+    "Populus.pin",
+    "Populus.pog",
+    "Populus.pos",
+    "Populus.pot",
+    "Populus.psq",
+    "Populus.ptf",
+    "Populus.pto"
+  ]
+}
