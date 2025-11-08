@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Populus_trichocarpa_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Ptrichocarpa/Ptrichocarpa_533_v4.1.protein.fa",
+  "number-of-letters": 25119823,
+  "number-of-sequences": 52400,
+  "last-updated": "2025-11-08T20:33:00",
+  "number-of-volumes": 1,
+  "bytes-total": 40930345,
+  "bytes-to-cache": 25591568,
+  "files": [
+    "Populus_trichocarpa_pep.pdb",
+    "Populus_trichocarpa_pep.phr",
+    "Populus_trichocarpa_pep.pin",
+    "Populus_trichocarpa_pep.pog",
+    "Populus_trichocarpa_pep.pos",
+    "Populus_trichocarpa_pep.pot",
+    "Populus_trichocarpa_pep.psq",
+    "Populus_trichocarpa_pep.ptf",
+    "Populus_trichocarpa_pep.pto"
+  ]
+}

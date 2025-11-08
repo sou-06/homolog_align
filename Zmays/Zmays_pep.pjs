@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Zmays_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Zmays/Zmays_284_6a.protein.fa",
+  "number-of-letters": 24414325,
+  "number-of-sequences": 88760,
+  "last-updated": "2025-11-08T20:41:00",
+  "number-of-volumes": 1,
+  "bytes-total": 46609176,
+  "bytes-to-cache": 25213278,
+  "files": [
+    "Zmays_pep.pdb",
+    "Zmays_pep.phr",
+    "Zmays_pep.pin",
+    "Zmays_pep.pog",
+    "Zmays_pep.pos",
+    "Zmays_pep.pot",
+    "Zmays_pep.psq",
+    "Zmays_pep.ptf",
+    "Zmays_pep.pto"
+  ]
+}

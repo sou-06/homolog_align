@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Slycopersicum_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Solanum_lycopersicum/Slycopersicum_796_ITAG5.0.protein.fa",
+  "number-of-letters": 16381052,
+  "number-of-sequences": 43752,
+  "last-updated": "2025-11-08T21:00:00",
+  "number-of-volumes": 1,
+  "bytes-total": 29994363,
+  "bytes-to-cache": 16774973,
+  "files": [
+    "Slycopersicum_pep.pdb",
+    "Slycopersicum_pep.phr",
+    "Slycopersicum_pep.pin",
+    "Slycopersicum_pep.pog",
+    "Slycopersicum_pep.pos",
+    "Slycopersicum_pep.pot",
+    "Slycopersicum_pep.psq",
+    "Slycopersicum_pep.ptf",
+    "Slycopersicum_pep.pto"
+  ]
+}

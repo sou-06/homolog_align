@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Ppatens_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "pptens/Ppatens_870_v6.1.protein.fa",
+  "number-of-letters": 34786820,
+  "number-of-sequences": 84829,
+  "last-updated": "2025-11-08T20:29:00",
+  "number-of-volumes": 1,
+  "bytes-total": 62022682,
+  "bytes-to-cache": 35550402,
+  "files": [
+    "Ppatens_pep.pdb",
+    "Ppatens_pep.phr",
+    "Ppatens_pep.pin",
+    "Ppatens_pep.pog",
+    "Ppatens_pep.pos",
+    "Ppatens_pep.pot",
+    "Ppatens_pep.psq",
+    "Ppatens_pep.ptf",
+    "Ppatens_pep.pto"
+  ]
+}
