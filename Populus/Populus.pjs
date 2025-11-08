@@ -6,9 +6,9 @@
   "description": "Populus/Populus.fasta",
   "number-of-letters": 380342,
   "number-of-sequences": 1497,
-  "last-updated": "2025-11-08T13:01:00",
+  "last-updated": "2025-11-08T13:12:00",
   "number-of-volumes": 1,
-  "bytes-total": 774475,
+  "bytes-total": 783187,
   "bytes-to-cache": 393920,
   "files": [
     "Populus.pdb",
