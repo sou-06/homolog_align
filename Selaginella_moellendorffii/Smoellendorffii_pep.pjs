@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Smoellendorffii_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Selaginella_moellendorffii/Smoellendorffii_91_protein.fa",
+  "number-of-letters": 8509479,
+  "number-of-sequences": 22285,
+  "last-updated": "2025-11-08T20:50:00",
+  "number-of-volumes": 1,
+  "bytes-total": 12840428,
+  "bytes-to-cache": 8710197,
+  "files": [
+    "Smoellendorffii_pep.pdb",
+    "Smoellendorffii_pep.phr",
+    "Smoellendorffii_pep.pin",
+    "Smoellendorffii_pep.pog",
+    "Smoellendorffii_pep.pos",
+    "Smoellendorffii_pep.pot",
+    "Smoellendorffii_pep.psq",
+    "Smoellendorffii_pep.ptf",
+    "Smoellendorffii_pep.pto"
+  ]
+}
