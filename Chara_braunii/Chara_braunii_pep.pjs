@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "Chara_braunii_pep",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Chara_braunii/Chara_braunii.fa",
+  "number-of-letters": 23483917,
+  "number-of-sequences": 35664,
+  "last-updated": "2025-11-08T20:37:00",
+  "number-of-volumes": 1,
+  "bytes-total": 34384782,
+  "bytes-to-cache": 23805014,
+  "files": [
+    "Chara_braunii_pep.pdb",
+    "Chara_braunii_pep.phr",
+    "Chara_braunii_pep.pin",
+    "Chara_braunii_pep.pog",
+    "Chara_braunii_pep.pos",
+    "Chara_braunii_pep.pot",
+    "Chara_braunii_pep.psq",
+    "Chara_braunii_pep.ptf",
+    "Chara_braunii_pep.pto"
+  ]
+}
